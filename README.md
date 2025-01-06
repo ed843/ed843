@@ -6,8 +6,8 @@ Welcome to my GitHub profile. I am a committed software developer with expertise
 
 ## 🧑‍💻 About Me
 - 🎓 **Computer Engineering Major** at Mississippi State University, Bagley College of Engineering.
-- 🌐 I focus on **full-stack development**, with expertise in **JavaScript, Python,** and **AWS**.
-- 🌱 Currently enhancing my skills in **React, Django, Go,** and **Flutter**.
+- 🌐 I focus on **full-stack development**, with expertise in **Java**, **JavaScript**, **C#**, and **AWS**.
+- 🌱 Currently enhancing my skills in **React, Django, Go, ASP.NET,** and **Flutter**.
 - 🛠️ Co-owner of **Fitness Figure**, where I am developing a gamified fitness tracking app.
 - 🚀 I’m actively working on open-source projects, personal projects, and learning new technologies in my free time.
 
