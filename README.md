@@ -49,7 +49,7 @@ Here are some of the projects I'm most proud of. You can find the source code fo
 
 ## 📫 Let's Connect!
 - **Portfolio**: [My Website](https://ericduncandev.com)
-- **LinkedIn**: [linkedin.com/in/your-linkedin](https://linkedin.com/in/ericduncan960)
+- **LinkedIn**: [linkedin.com/in/ericduncan960](https://linkedin.com/in/ericduncan960)
 - **Email**: eric@ericduncandev.com
 
 Feel free to reach out if you're interested in collaborating, or just want to chat about tech!
