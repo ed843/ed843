@@ -35,9 +35,10 @@ Here are some of the projects I'm most proud of. You can find the source code fo
 - Developed as a fun project combining my interests in sports and software development.
 - Uses **Java Spring Boot, PostgreSQL,** and **Docker Compose** for robust data management.
 
-### [Jammming](https://github.com/ed843/Jammming)
-- A Codecademy project using **React** and **Spotify's API** to create and save custom playlists.
-- Allows users to search for songs, add them to a playlist, and save that playlist directly to their Spotify account.
+### [HTTPServer](https://github.com/ed843/HTTPServer)
+- A fully functional HTTP Server made in Java that handles concurrent requests, utilizing thread pools and atomic operations. 
+- Provides a configurable server setup through the builder pattern, enabling easy customization of port, thread pool size, and max connections.
+- Offers simple static file hosting, returning appropriate response codes and serving files based on the requested path
 
 ---
 
