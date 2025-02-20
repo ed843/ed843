@@ -1,15 +1,14 @@
 # Hi there! I'm Eric 👋
 
-Welcome to my GitHub profile. I am a committed software developer with expertise in full-stack development, a solid foundation in problem-solving, and a focus on creating meaningful projects. I specialize in developing solutions with modern technologies and am continually working to broaden my skills.
+Welcome to my GitHub profile. I specialize in full-stack development of mobile and web applications.
 
 ---
 
 ## 🧑‍💻 About Me
 - 🎓 **Computer Engineering Major** at Mississippi State University, Bagley College of Engineering.
-- 🌐 I focus on **full-stack development**, with expertise in **Java**, **JavaScript**, **C#**, and **AWS**.
-- 🌱 Currently enhancing my skills in **React, Django, Go, ASP.NET,** and **Flutter**.
+- 🌐 I focus on **full-stack development**, with expertise in **Flutter**, **JavaScript**, **C#**, and **AWS**.
+- 🌱 Currently enhancing my skills in **Java Spring Boot** and **ASP.NET**.
 - 🛠️ Co-owner of **Fitness Figure**, where I am developing a gamified fitness tracking app.
-- 🚀 I’m actively working on open-source projects, personal projects, and learning new technologies in my free time.
 
 ---
 
