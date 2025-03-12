@@ -1,18 +1,18 @@
-# Hi there! I'm Eric 👋
+# Hi there! I'm Eric
 
 Welcome to my GitHub profile. I specialize in full-stack development of mobile and web applications.
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 **Computer Engineering Major** at Mississippi State University, Bagley College of Engineering.
-- 🌐 I focus on **full-stack development**, with expertise in **Flutter**, **JavaScript**, **C#**, and **AWS**.
-- 🌱 Currently enhancing my skills in **Java Spring Boot** and **ASP.NET**.
-- 🛠️ Co-owner of **Fitness Figure**, where I am developing a gamified fitness tracking app.
+## About Me
+- **Computer Engineering Major** at Mississippi State University, Bagley College of Engineering.
+- I focus on **full-stack development**, with expertise in **Flutter**, **JavaScript**, **C#**, and **AWS**.
+- Currently enhancing my skills in **Java Spring Boot** and **ASP.NET**.
+- Co-owner of **Fitness Figure**, where I am developing a gamified fitness tracking app.
 
 ---
 
-## 💼 Core Skills
+## Core Skills
 - **Frontend**: React, HTML5, CSS3, JavaScript, Flutter
 - **Backend**: Django, Go, Python, Java
 - **Databases**: PostgreSQL, MySQL
@@ -20,7 +20,7 @@ Welcome to my GitHub profile. I specialize in full-stack development of mobile a
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 Here are some of the projects I'm most proud of. You can find the source code for each one in my repositories.
 
@@ -41,17 +41,17 @@ Here are some of the projects I'm most proud of. You can find the source code fo
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ed843&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 - **Portfolio**: [My Website](https://ericduncandev.com)
 - **LinkedIn**: [linkedin.com/in/ericduncan960](https://linkedin.com/in/ericduncan960)
 - **Email**: eric@ericduncandev.com
 
-Feel free to reach out if you're interested in collaborating, or just want to chat about tech!
+Feel free to reach out if you're interested in collaborating!
 
 ---
 
