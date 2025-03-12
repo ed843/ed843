@@ -41,11 +41,6 @@ Here are some of the projects I'm most proud of. You can find the source code fo
 
 ---
 
-## GitHub Stats
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ed843&show_icons=true&theme=radical)
-
----
-
 ## Let's Connect!
 - **Portfolio**: [My Website](https://ericduncandev.com)
 - **LinkedIn**: [linkedin.com/in/ericduncan960](https://linkedin.com/in/ericduncan960)
